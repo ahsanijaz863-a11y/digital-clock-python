@@ -28,3 +28,7 @@ It displays real-time clock and date in a clean graphical user interface.
 
 ```bash
 python clock.py
+
+## 📸 Preview
+
+![Digital Clock](clock.png)
